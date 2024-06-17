@@ -8,13 +8,7 @@
 
 <h3 align="center">Welcome to the Nexo Engine!</h3>
 
-<table>
-<tr>
-<td>
-Imagine a revolutionary tool that allows you to create video games entirely in virtual reality.<br>
-With our VR game engine integrated with raylib, you simply put on your VR headset and are immersed in a creation space.<br>
-You and your colleagues can collaborate in real-time, seeing your partners interact with objects and game elements as if they were right next to you.<br>
-Say goodbye to traditional interfaces and enter a world where you build your games.
-</td>
-</tr>
-</table>
+> Imagine a revolutionary tool that allows you to create video games entirely in virtual reality.<br>
+> With our VR game engine integrated with raylib, you simply put on your VR headset and are immersed in a creation space.<br>
+> You and your colleagues can collaborate in real-time, seeing your partners interact with objects and game elements as if they were right next to you.<br>
+> Say goodbye to traditional interfaces and enter a world where you build your games.
